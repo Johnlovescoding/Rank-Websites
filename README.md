@@ -46,6 +46,6 @@ hadoop jar pr.jar Driver /transition /pagerank /output 30
 //args3: times of convergence
 ```
 
-Notes:
+PageRank Visualization:
 ------
-
+![img](https://github.com/Johnlovescoding/Rank-Websites/blob/master/kiXziGtKRX.gif)
