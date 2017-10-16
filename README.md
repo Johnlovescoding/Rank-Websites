@@ -12,6 +12,10 @@ Reference:
 - "The Anatomy of a Large-Scale Hypertextual Web Search Engine", BSergey Brin and Lawrence Page, Computer Networks and ISDN Systems. 30: 107–117, 1998
 
 
+PageRank Visualization:
+------
+![img](https://github.com/Johnlovescoding/Rank-Websites/blob/master/kiXziGtKRX.gif)
+
 
 Getting started:
 ----------------
@@ -45,7 +49,3 @@ hadoop jar pr.jar Driver /transition /pagerank /output 30
 //args2: dir of unitMultiplication result
 //args3: times of convergence
 ```
-
-PageRank Visualization:
-------
-![img](https://github.com/Johnlovescoding/Rank-Websites/blob/master/kiXziGtKRX.gif)
